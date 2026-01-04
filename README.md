@@ -18,11 +18,11 @@ cp .env.example .env
 5.Setelah itu, buka file .env dan sesuaikan bagian database:  
 atur sesuai nama database yg sudah kalian buat di phpmyadmin  
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=nama_database_kamu
-DB_USERNAME=root
+DB_CONNECTION=mysql  
+DB_HOST=127.0.0.1  
+DB_PORT=3306  
+DB_DATABASE=nama_database_kamu  
+DB_USERNAME=root  
 DB_PASSWORD=  
 
 6.Generate App Key:
