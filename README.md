@@ -4,7 +4,7 @@ uas web kelompok 6 Miftahul Fauzan dan Khairunnisa SISTEM AKADEMIK DAN MONITORIN
 Panduan penggunaan projek  
 
 1.download project ini  
-https://github.com/fznmra/sekolah.git  
+git clone https://github.com/fznmra/sekolah.git  
 
 2.akan muncul folder sekolah, buka foldernya  
 cd sekolah  
